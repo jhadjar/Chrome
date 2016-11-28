@@ -2,6 +2,7 @@
 
 
 [Resources](https://developer.chrome.com/extensions/devguide)
+
 [Getting started](https://developer.chrome.com/extensions/getstarted)
 
 
